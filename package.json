@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "bson": "^6.7.0"
+  }
+}
